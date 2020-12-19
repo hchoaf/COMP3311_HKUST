@@ -1,0 +1,68 @@
+create or replace procedure Lab7CgaCalculations authid current_user as 
+	/* DECLARATION SECTION */
+	currentStudentId            Student.studentId%type;
+	honoursCga                  Student.cga%type := 3.5;
+	studentLowCga               Student.cga%type := 2;
+	studentCga                  Student.cga%type := 0;
+    gradePoint                  number := 0;
+    -- Declare the additional variables needed for the CGA calculation
+    courseCredits               Course.credits%type := 0;
+	sumCredits                  Course.credits%type := 0;
+	sumCreditsTimesGradePoint   number := 0;
+    /* TODO: Declare any user exceptions */
+    
+
+	-- Declare the cursors for the Student and EnrollsIn tables
+	cursor studentCursor is select studentId, firstName, lastName from Student;
+	cursor enrollsInCursor is select courseId, grade from EnrollsIn where studentId=currentStudentId;
+begin
+	-- Reset the Student and LowCga database tables to facilitate testing
+    update Student set cga = null;
+    delete from LowCga;
+    -- Process each Student record
+    -- The cursor studentCursor points at the current student record
+	for studentRecord in studentCursor loop
+		currentStudentId := studentRecord.studentId;
+		-- Reset the variables used to calculate a student's cga
+		sumCredits := 0;
+		sumCreditsTimesGradePoint := 0;				
+        -- Process each EnrollsIn record of the current student
+        -- The cursor enrollsInCursor points at an EnrollsIn record for the current student
+		for enrollsInRecord in enrollsInCursor loop		
+			-- Determine the grade point from the course grade
+			gradePoint := greatest((enrollsInRecord.grade / 20) - 1, 0);
+			-- Get the credits for the current enrollsInRecord
+			select credits into courseCredits from Course where courseId=enrollsInRecord.courseId;				
+			-- Collect the data needed to calculate the current student's cga
+			sumCredits := sumCredits + courseCredits;
+			sumCreditsTimesGradePoint := sumCreditsTimesGradePoint + courseCredits * gradePoint;
+		end loop; -- For retrieving each EnrollsIn record of the current student
+		begin
+			-- Calculate the current student's cga - throws a divide-by-zero exception if there are no EnrollsIn records
+            studentCga := sumCreditsTimesGradePoint / sumCredits;
+			-- Update the current student's cga in his/her Student record
+            update Student set cga=studentCga where studentId=currentStudentId;
+            
+			/* TODO: Raise honours student exception */
+			
+            
+            
+            -- Insert the current student record into the LowCga table if his/her cga is less than or equal to 2
+			if studentCga <= studentLowCga then
+				insert into LowCga select * from Student where studentId=currentStudentId;
+                
+				/* TODO: Output low cga message */
+					
+			end if;	
+
+		/* EXCEPTION HANDLING SECTION */
+            
+			/* TODO: Handle divide-by-zero exception */
+			
+            
+			/* TODO: Handle honours student exception */
+			
+            
+		end;
+	end loop; -- For retrieving each Student record
+end Lab7CgaCalculations;

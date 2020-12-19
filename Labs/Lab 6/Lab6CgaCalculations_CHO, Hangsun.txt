@@ -1,0 +1,87 @@
+create or replace procedure Lab6CgaCalculations authId current_user as 
+    /* DECLARATION SECTION */
+    currentStudentId    Student.studentId%type;
+    honoursCga          constant Student.cga%type := 3.5;
+    studentLowCga       constant Student.cga%type := 2;
+    studentCga          Student.cga%type := 0;
+    gradePoint          number := 0;
+    
+    /* TODO: Declare any additional variables needed for the cga calculation */
+    
+	courseCredit number := 0;
+    courseCreditSum number := 0;
+    tempProduct number := 0;
+    tempSum number := 0;
+    
+    
+    
+	
+	
+    -- Declare the cursors for the Student and EnrollsIn tables
+    cursor studentCursor is select * from Student;
+    
+    /* TODO: Replace the declaration of the enrollsInCursor so as to retrieve only
+             the EnrollsIn records for the current student in the studentCursor */
+    cursor enrollsInCursor is select * from EnrollsIn where EnrollsIn.studentId = currentStudentId;-- this line change (6-a)
+begin
+    -- Reset the Student and LowCga database tables to facilitate testing
+    update Student set cga = null;
+    delete from LowCga;
+    
+    -- Process each Student record
+    -- The cursor studentCursor points at the current student record
+    for studentRecord in studentCursor loop -- outer loop = for each student
+        currentStudentId := studentRecord.studentId;
+        
+        /* TODO: Reset the variables used to calculate a student's cga */
+        
+        courseCreditSum := 0;
+        tempProduct := 0;
+        tempSum := 0;
+        
+				
+        -- Process each EnrollsIn record of the current student
+        -- The cursor enrollsInCursor points at an EnrollsIn record for the current student
+        for enrollsInRecord in enrollsInCursor loop -- inner loop = for each course that a student has taken
+            -- Determine the grade point from the course grade
+            gradePoint := greatest((enrollsInRecord.grade / 20) - 1, 0); -- gradepoint calculate formula
+            /* TODO: Get the credits for the current enrollsInRecord */
+            
+            select credits into courseCredit from Course where courseId = enrollsInRecord.courseId;
+            
+            /* TODO: Collect the data needed to calculate the current student's cga */
+            
+            courseCreditSum := courseCreditSum + courseCredit;
+            
+            tempProduct := courseCredit * gradePoint;
+            tempSum := tempSum + tempProduct;
+            
+            --dbms_output.put_line('Student: ' || studentRecord.firstName || ' Course: ' || enrollsInRecord.courseId || ' credit: ' || courseCredit || ' courseCreditSum: ' || courseCreditSum || ' tempProduct: ' || tempProduct || ' tempSum: ' || tempSum);
+    
+        end loop; -- For processing each EnrollsIn record of the current student
+    
+        studentCga := round(tempSum / courseCreditSum, 2);
+        
+        /* TODO: Update the current student's cga in his/her Student record */
+        --dbms_output.put_line('Student: ' || studentRecord.firstName || ' courseCreditSum: ' || courseCreditSum || ' tempSum: ' || tempSum || ' studentCga: ' || studentCga);
+    
+        update Student
+        set cga = studentCga
+        where Student.studentId = currentStudentId;
+
+        -- Output honours message if needed
+        if studentCga >= honoursCga then
+            dbms_output.put_line('>>> ' || studentRecord.firstName || ' ' || studentRecord.lastName || 
+                ' (' || currentStudentId || ') with cga=' || studentCga || ' is an honours Student.');
+        end if;
+        
+            
+        /* TODO: Insert the current student record into the LowCga table if his/her cga is less than or equal to 2 */
+        if studentCga <= studentLowCga then
+            insert into LowCga values(currentStudentId, studentRecord.firstName, studentRecord.lastName, studentRecord.email, studentRecord.phoneNo, studentCga, studentRecord.departmentId, studentRecord.admissionYear);
+            
+        end if;
+
+
+    end loop; -- For processing each Student record
+end Lab6CgaCalculations;

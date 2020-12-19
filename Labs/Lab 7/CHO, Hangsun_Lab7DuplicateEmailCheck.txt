@@ -1,0 +1,14 @@
+CREATE OR REPLACE PROCEDURE LAB7DUPLICATEEMAILCHECK AS 
+
+BEGIN
+    begin
+        insert into Student values ('12345678', 'Hangsun', 'Cho', 'hchoaf', '23589754', null, 'COMP', '2018');
+        
+        exception
+            when DUP_VAL_ON_INDEX then
+                dbms_output.put_line('### Tried to insert duplicate email into the Student table.');
+    end;
+    
+    
+  NULL;
+END LAB7DUPLICATEEMAILCHECK;

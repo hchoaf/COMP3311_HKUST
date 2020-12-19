@@ -1,0 +1,65 @@
+create or replace procedure Lab6CgaCalculations authId current_user as 
+    /* DECLARATION SECTION */
+    currentStudentId    Student.studentId%type;
+    honoursCga          constant Student.cga%type := 3.5;
+    studentLowCga       constant Student.cga%type := 2;
+    studentCga          Student.cga%type := 0;
+    gradePoint          number := 0;
+    
+    /* TODO: Declare any additional variables needed for the cga calculation */
+	
+	
+	
+    -- Declare the cursors for the Student and EnrollsIn tables
+    cursor studentCursor is select * from Student;
+    
+    /* TODO: Replace the declaration of the enrollsInCursor so as to retrieve only
+             the EnrollsIn records for the current student in the studentCursor */
+    cursor enrollsInCursor is select 0 grade from dual;
+begin
+    -- Reset the Student and LowCga database tables to facilitate testing
+    update Student set cga = null;
+    delete from LowCga;
+    
+    -- Process each Student record
+    -- The cursor studentCursor points at the current student record
+    for studentRecord in studentCursor loop
+        currentStudentId := studentRecord.studentId;
+        
+        /* TODO: Reset the variables used to calculate a student's cga */
+		  
+		  
+				
+        -- Process each EnrollsIn record of the current student
+        -- The cursor enrollsInCursor points at an EnrollsIn record for the current student
+        for enrollsInRecord in enrollsInCursor loop
+            -- Determine the grade point from the course grade
+            gradePoint := greatest((enrollsInRecord.grade / 20) - 1, 0);
+            
+            /* TODO: Get the credits for the current enrollsInRecord */
+            
+				
+            /* TODO: Collect the data needed to calculate the current student's cga */
+
+
+
+        end loop; -- For processing each EnrollsIn record of the current student
+
+        /* TODO: Calculate the current student's cga */
+        
+        
+        /* TODO: Update the current student's cga in his/her Student record */
+
+		
+        -- Output honours message if needed
+        if studentCga >= honoursCga then
+            dbms_output.put_line('>>> ' || studentRecord.firstName || ' ' || studentRecord.lastName || 
+                ' (' || currentStudentId || ') with cga=' || studentCga || ' is an honours Student.');
+        end if;
+            
+        /* TODO: Insert the current student record into the LowCga table if his/her cga is less than or equal to 2 */
+
+
+
+    end loop; -- For processing each Student record
+end Lab6CgaCalculations;

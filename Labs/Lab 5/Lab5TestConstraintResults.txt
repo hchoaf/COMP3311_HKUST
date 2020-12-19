@@ -1,0 +1,152 @@
+
+*** Creating Lab 5 database ***
+
+*** Inserting your student and enrollment records ***
+
+Commit complete.
+
+
+<<<<<---------- STUDENTS WHOSE AVERAGE GRADE IS >90 ---------->>>>>
+
+STUDENTI FIRSTNAME            LASTNAME                  AVG(GRADE)
+-------- -------------------- ------------------------- ----------
+20473370 Hangsun              Cho                            92.58
+28918856 Alan                 Turing                          91.1
+
+<<<<<---------- TESTS FOR REFERENTIAL INTEGRITY CONSTRAINTS ---------->>>>>
+
+*** 1. REFERENTIAL INTEGRITY on Facility table: No matching department id in Department table.
+
+Error starting at line : 26 in command -
+insert into Facility values ('CHEM', 2, 5)
+Error report -
+ORA-02291: integrity constraint (COMP3311STU006.SYS_C00391390) violated - parent key not found
+
+
+*** 2. REFERENTIAL INTEGRITY on Student table: No matching departmentId in Department table.
+
+Error starting at line : 31 in command -
+insert into Student values ('22222222', '*** Student ***', 'RI: No matching dept id', 'afong', '22223334', 0.00, 'PHYS', '2016')
+Error report -
+ORA-02291: integrity constraint (COMP3311STU006.SYS_C00391391) violated - parent key not found
+
+
+*** 3. REFERENTIAL INTEGRITY on Student table: Should delete 1 row and select 0 rows.
+
+1 row deleted.
+
+
+0 rows selected. 
+
+
+*** 4. REFERENTIAL INTEGRITY on Course table: No matching department id in Department table.
+
+Error starting at line : 41 in command -
+insert into Course values ('PHYS4311', '*** ', '*** Course ***', 'RI: No matching dept id')
+Error report -
+ORA-02291: integrity constraint (COMP3311STU006.SYS_C00391392) violated - parent key not found
+
+
+*** 5. REFERENTIAL INTEGRITY on EnrollsIn table: No matching course id in Course table.
+
+Error starting at line : 46 in command -
+insert into EnrollsIn values ('13456789', 'PHYS4311', 80.6)
+Error report -
+ORA-02291: integrity constraint (COMP3311STU006.SYS_C00391394) violated - parent key not found
+
+
+*** 6. REFERENTIAL INTEGRITY on EnrollsIn table: No matching student id in Student table.
+
+Error starting at line : 50 in command -
+insert into EnrollsIn values ('12345678', 'COMP3311', 75.6)
+Error report -
+ORA-02291: integrity constraint (COMP3311STU006.SYS_C00391393) violated - parent key not found
+
+
+<<<<<---------- TESTS FOR CHECK CONSTRAINTS ---------->>>>>
+
+*** 7. CHECK CONSTRAINT on Department table: departmentId must be one of BUS, COMP, ELEC, HUMA or MATH.
+
+Error starting at line : 57 in command -
+insert into Department values ('DEPT','*** Department table: CHK: deptId','0000')
+Error report -
+ORA-02290: check constraint (COMP3311STU006.CHK_DEPARTMENTID) violated
+
+
+*** 8. CHECK CONSTRAINT on Student table: studentId must be all digits.
+
+1 row inserted.
+
+
+*** 9. CHECK CONSTRAINT on Student table: studentId must be exactly 8 digits.
+
+1 row inserted.
+
+
+*** 10. CHECK CONSTRAINT on Student table: phoneNo must be all digits.
+
+1 row inserted.
+
+
+*** 11. CHECK CONSTRAINT on Student table: phoneNo must be exactly 8 digits.
+
+1 row inserted.
+
+
+*** 12. CHECK CONSTRAINT on Student table: cga must be between 0 and 4.
+
+Error starting at line : 82 in command -
+insert into Student values ('55555555', '*** Student table:', 'CHK: cga', 'ali', '25524334', 4.50, 'COMP', '2016')
+Error report -
+ORA-02290: check constraint (COMP3311STU006.CHK_CGA) violated
+
+
+*** 13. CHECK CONSTRAINT on Student table: admissionYear must be all digits.
+
+Error starting at line : 87 in command -
+insert into Student values ('77777777', '*** Student table:', 'CHK: admissionYear', 'bli', '25524334', 4.50, 'COMP', '200a')
+Error report -
+ORA-02290: check constraint (COMP3311STU006.CHK_CGA) violated
+
+
+*** 14. CHECK CONSTRAINT on Student table: admissionYear has exactly 4 digits.
+
+Error starting at line : 92 in command -
+insert into Student values ('88888888', '*** Student table:', 'CHK: admissionYear', 'cli', '25524334', 4.50, 'COMP', '200')
+Error report -
+ORA-02290: check constraint (COMP3311STU006.CHK_CGA) violated
+
+
+*** 15. CHECK CONSTRAINT on Student table: admissionYear begins with a 2.
+
+Error starting at line : 97 in command -
+insert into Student values ('99999999', '*** Student table:', 'CHK: admissionYear', 'dli', '25524334', 4.50, 'COMP', '1999')
+Error report -
+ORA-02290: check constraint (COMP3311STU006.CHK_ADMISSIONYEAR) violated
+
+
+*** 16. CHECK CONSTRAINT on Course table: course id must be exactly four uppercase letters followed by exactly four digits.
+
+Error starting at line : 102 in command -
+insert into course values ('comp3311','COMP','** Course Table: CHK: courseId','Test Man')
+Error report -
+ORA-02290: check constraint (COMP3311STU006.CHK_COURSEID) violated
+
+
+*** 17. CHECK CONSTRAINT on EnrollsIn table: grade must be between 0 and 100.
+
+Error starting at line : 107 in command -
+insert into EnrollsIn values ('99987654', 'COMP3311', 100.1)
+Error report -
+ORA-02290: check constraint (COMP3311STU006.CHK_GRADE) violated
+
+
+<<<<<---------- TEST FOR UNIQUE CONSTRAINT ---------->>>>>
+
+*** 18. CHECK CONSTRAINT on Student table: email must be unique.
+
+Error starting at line : 114 in command -
+insert into Student values ('10101010', '*** Student table:', 'CHK: eEmail', 'csgrande', '22223334', 0.00, 'COMP', '2018')
+Error report -
+ORA-00001: unique constraint (COMP3311STU006.UNIQUE_EMAIL) violated
+

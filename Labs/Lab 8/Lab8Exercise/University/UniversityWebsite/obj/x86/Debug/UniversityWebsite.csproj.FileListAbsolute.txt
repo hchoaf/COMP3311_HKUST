@@ -1,0 +1,412 @@
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\UniversityWebsite.dll.config
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\UniversityWebsite.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\UniversityWebsite.pdb
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\csc.exe
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\csc.exe.config
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\csc.rsp
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\csi.exe
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\csi.exe.config
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\csi.rsp
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Console.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\vbc.exe
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\vbc.exe.config
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\vbc.rsp
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Antlr3.Runtime.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\EntityFramework.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Newtonsoft.Json.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Owin.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\System.Web.Optimization.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\System.Web.Providers.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\WebGrease.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\System.Web.Optimization.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Newtonsoft.Json.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\EntityFramework.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\System.Web.Providers.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fred\Desktop\University\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csproj.CoreCompileInputs.cache
+C:\Users\fred\Desktop\University\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csproj.CopyComplete
+C:\Users\fred\Desktop\University\UniversityWebsite\obj\x86\Debug\UniversityWebsite.dll
+C:\Users\fred\Desktop\University\UniversityWebsite\obj\x86\Debug\UniversityWebsite.pdb
+C:\Users\fred\Desktop\University\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csprojAssemblyReference.cache
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\UniversityWebsite.dll.config
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\UniversityWebsite.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\UniversityWebsite.pdb
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\csc.exe
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\csc.exe.config
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\csc.rsp
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\csi.exe
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\csi.exe.config
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\csi.rsp
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Console.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\vbc.exe
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\vbc.exe.config
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\vbc.rsp
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Antlr3.Runtime.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\EntityFramework.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Newtonsoft.Json.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Oracle.DataAccess.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Owin.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\System.Web.Optimization.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\System.Web.Providers.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\WebGrease.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\System.Web.Optimization.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Newtonsoft.Json.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\EntityFramework.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\System.Web.Providers.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csprojAssemblyReference.cache
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csproj.CoreCompileInputs.cache
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csproj.CopyComplete
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\obj\x86\Debug\UniversityWebsite.dll
+C:\Users\fred\Desktop\University - Solution\UniversityWebsite\obj\x86\Debug\UniversityWebsite.pdb
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\UniversityWebsite.dll.config
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\UniversityWebsite.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\UniversityWebsite.pdb
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\csc.exe
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\csc.exe.config
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\csc.rsp
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\csi.exe
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\csi.exe.config
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\csi.rsp
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Console.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\vbc.exe
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\vbc.exe.config
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\vbc.rsp
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Antlr3.Runtime.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\EntityFramework.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Newtonsoft.Json.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Oracle.DataAccess.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Owin.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\System.Web.Optimization.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\System.Web.Providers.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\WebGrease.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\System.Web.Optimization.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Newtonsoft.Json.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\EntityFramework.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\System.Web.Providers.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csproj.CoreCompileInputs.cache
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csproj.CopyComplete
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\obj\x86\Debug\UniversityWebsite.dll
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\obj\x86\Debug\UniversityWebsite.pdb
+C:\Users\fred\Desktop\University - Solution - NEW\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csprojAssemblyReference.cache
+C:\Users\fred\Desktop\University\UniversityWebsite\bin\Oracle.DataAccess.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\UniversityWebsite.dll.config
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\UniversityWebsite.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\UniversityWebsite.pdb
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\EntityFramework.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Oracle.DataAccess.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Owin.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\System.Web.Providers.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\WebGrease.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\EntityFramework.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\System.Web.Providers.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\obj\x86\Debug\UniversityWebsite.csproj.CopyComplete
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\obj\x86\Debug\UniversityWebsite.dll
+C:\Users\User\Desktop\Uni Life\2_1\COMP3311\Labs\Lab 8\Lab8Exercise\University\UniversityWebsite\obj\x86\Debug\UniversityWebsite.pdb
